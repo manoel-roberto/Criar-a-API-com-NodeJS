@@ -1,0 +1,7 @@
+{
+  "name": "Criar-a-API-com-NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manoel Roberto <manoelrobertoms@gmail.com>",
+  "license": "MIT"
+}
